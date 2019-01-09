@@ -1,5 +1,9 @@
 # CodeChallengePrework
 
+Developer: Andrew Hinojosa
+
+Collaborator: Deziree Teague
+
 
 # Problem 1: Array Max Result
 Problem Statement
